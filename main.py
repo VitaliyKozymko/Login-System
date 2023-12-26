@@ -13,7 +13,9 @@ else:
 password = input("Enter Password: ")
 
 #Check password (my own password )
-if password == "Your Password":
-    print("Password is Correct!")
+if password == "Your Password: ":
+    print("Password is Correct! ")
 else:
-    print("Password is Incorrect")
+    print("Password is Incorrect! ")
+#end programm("")
+end = input("")
