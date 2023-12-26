@@ -15,7 +15,7 @@ password = input("Enter Password: ")
 #Check password (my own password )
 if password == "Your Password: ":
     print("Password is Correct! ")
+    Hello = input("Hello User!")
 else:
     print("Password is Incorrect! ")
-#end programm("")
-end = input("")
+    Bye = input("Goodbye User! ")
